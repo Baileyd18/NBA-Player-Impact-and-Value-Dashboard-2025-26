@@ -2,6 +2,10 @@
 Power BI dashboard analyzing 2025–26 NBA player performance using a custom efficiency-adjusted impact model. Combines box score metrics and salary data sourced directly from Basketball Reference to evaluate player performance, contract value, and league-wide trends through interactive visualizations.
 
 ---
+## Link to Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiZGUzYTljMjYtZmQyNC00OTc4LTkxMGQtZTlmYzY3NzU0YWQ4IiwidCI6ImFjMjRjMTRiLTc3YTEtNDZmYy1hOTY5LTkwNDRiYTIzMTc0MyJ9&embedImagePlaceholder=true
+---
 
 ## Data Sources
 
