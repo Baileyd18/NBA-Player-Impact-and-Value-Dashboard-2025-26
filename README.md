@@ -39,19 +39,19 @@ Data was cleaned and transformed using Power Query:
 
 ### Total Impact
 
-A weighted combination of box score statistics:
+A weighted combination of per-36 box score statistics:
 
 - Points  
-- Assists (1.5x)  
+- Assists
 - Offensive and defensive rebounds  
 - Steals and blocks (positively weighted)  
 - Turnovers and fouls (penalized)  
 
-### Efficiency-Adjusted Impact
+### Impact Score
 
 Adjusts Total Impact using shooting efficiency:
 
-- Based on FG%  
+- Based on eFG%  
 - Rewards efficient scoring alongside volume production  
 
 ### Value Score
