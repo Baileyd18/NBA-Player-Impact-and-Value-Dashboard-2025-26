@@ -49,10 +49,11 @@ A weighted combination of per-36 box score statistics:
 
 ### Impact Score
 
-Adjusts Total Impact using shooting efficiency:
+Refines Total Impact by incorporating efficiency, role, and advanced impact metrics:
 
-- Based on eFG%  
-- Rewards efficient scoring alongside volume production  
+- Adjusted using True Shooting % and Usage Rate  
+- Incorporates OBPM and DBPM for offensive and defensive context  
+- Rewards players who combine efficient scoring with meaningful offensive and defensive responsibility
 
 ### Value Score
 
