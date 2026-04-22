@@ -92,14 +92,19 @@ Shows the relationship between player cost and performance, including a trendlin
 
 Highlights players delivering the highest value relative to salary.
 
-### Salary Distribution by Tier (Donut Chart)
+### Impact Composition by Player (100% Stacked Bar Chart)
 
-Displays how salary is distributed across tiers, with tooltips for:
+Displays how each player’s total impact is distributed across key components, with tooltips for:
 
-- Average Impact  
-- Average Value Score  
-- Average Salary  
-- Player Count  
+- Scoring Impact %
+- Playmaking Impact %
+- Rebounding Impact %
+- Defensive Impact %
+- Efficiency Impact %
+- Usage Impact %
+- Negative Impact %
+- Impact Score
+- Value Score
 
 ---
 
