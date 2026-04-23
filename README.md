@@ -14,6 +14,9 @@ Data was compiled from Basketball Reference:
 - Per-game player statistics:  
   https://www.basketball-reference.com/leagues/NBA_2026_per_game.html
 
+- Advanced player statistics:  
+  https://www.basketball-reference.com/leagues/NBA_2026_advanced.html
+
 - Player salary data:  
   https://www.basketball-reference.com/contracts/players.html
 
@@ -53,7 +56,7 @@ Refines Total Impact by incorporating efficiency, role, and advanced impact metr
 
 - Adjusted using True Shooting % and Usage Rate  
 - Incorporates OBPM and DBPM for offensive and defensive context  
-- Rewards players who combine efficient scoring with meaningful offensive and defensive responsibility
+- Rewards players with meaningful offensive and defensive responsibility
 
 ### Value Score
 
